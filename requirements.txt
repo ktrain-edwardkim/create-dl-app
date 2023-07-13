@@ -1,0 +1,7 @@
+torch~=2.1.0.dev20230708+cu121
+numpy~=1.24.3
+joblib~=1.3.0
+flask~=2.3.2
+tensorflow~=2.12.1
+scikit-learn~=1.3.0
+pandas~=2.0.3
